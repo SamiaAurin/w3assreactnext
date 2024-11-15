@@ -1,0 +1,33 @@
+{
+  "id": "1731479032307",
+  "slug": "lameridian",
+  "images": [
+    "http://localhost:3002/uploads/radisson.jpeg",
+    "http://localhost:3002/uploads/1731479032307-home4.jpg"
+  ],
+  "title": "Lameridian",
+  "description": "A luxurious five star hotel.",
+  "guestCount": "200",
+  "bedroomCount": "100",
+  "bathroomCount": "100",
+  "amenities": [
+    "Free Wi-Fi",
+    "Beach Access"
+  ],
+  "host": "Host",
+  "address": "Kurmitola",
+  "latitude": "34.0522",
+  "longitude": "-118.2437",
+  "rooms": [
+    {
+      "hotelSlug": "lameridian",
+      "roomSlug": "garden-view-suite",
+      "roomTitle": "Garden View Suite",
+      "bedroomCount": "2",
+      "roomImage": [
+        "http://localhost:3002/uploads/rooms/1731479032307-garden-view-suite-room21.jpeg",
+        "http://localhost:3002/uploads/rooms/1731479032307-garden-view-suite-room51.jpeg"
+      ]
+    }
+  ]
+}

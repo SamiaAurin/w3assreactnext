@@ -1,0 +1,19 @@
+{
+  "id": "1731337460922",
+  "slug": "hills",
+  "title": "Updated Hotel Title",
+  "description": "New description for the hotel.",
+  "guestCount": 50,
+  "bedroomCount": 25,
+  "bathroomCount": 20,
+  "amenities": [
+    "Pool",
+    "Spa",
+    "Free WiFi"
+  ],
+  "host": "John Kabir",
+  "address": "123 Waterfall Road, Some City, Bangladesh",
+  "latitude": 34.0522,
+  "longitude": -118.2437,
+  "rooms": []
+}

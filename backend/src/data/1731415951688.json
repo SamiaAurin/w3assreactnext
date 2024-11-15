@@ -1,0 +1,34 @@
+{
+  "id": "1731415951688",
+  "slug": "radison",
+  "title": "Radison",
+  "description": "A luxurious five star hotel.",
+  "guestCount": 200,
+  "bedroomCount": 100,
+  "bathroomCount": 100,
+  "amenities": [
+    "Free Wi-Fi",
+    "Swimming Pool",
+    "Spa",
+    "Gym",
+    "Beach Access"
+  ],
+  "host": "Host",
+  "address": "Kurmitola",
+  "latitude": 34.0522,
+  "longitude": -118.2437,
+  "rooms": [
+    {
+      "hotelSlug": "radison",
+      "roomSlug": "garden-view-suite",
+      "roomTitle": "Garden View Suite",
+      "bedroomCount": 2,
+      "roomImage": [
+        "http://localhost:3002/uploads/rooms/1731415951688-garden-view-suite-radisson-room.jpeg"
+      ]
+    }
+  ],
+  "images": [
+    "http://localhost:3002/uploads/1731415951688-radisson.jpeg"
+  ]
+}

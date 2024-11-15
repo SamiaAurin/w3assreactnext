@@ -1,0 +1,20 @@
+{
+  "id": "1731478799474",
+  "slug": "rainwater-falls",
+  "images": [],
+  "title": "Rainwater Falls",
+  "description": "A beautiful resort located near the waterfall.",
+  "guestCount": "50",
+  "bedroomCount": "25",
+  "bathroomCount": "20",
+  "amenities": [
+    "Free Wifi",
+    "Pool",
+    "Spa"
+  ],
+  "host": "John Doe",
+  "address": "123 Waterfall Road, Some City, Country",
+  "latitude": "34.0522",
+  "longitude": "-118.2437",
+  "rooms": []
+}

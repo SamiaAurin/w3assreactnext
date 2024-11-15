@@ -1,0 +1,30 @@
+{
+  "id": "1731393314509",
+  "slug": "sseason",
+  "title": "Season",
+  "description": "A beautiful resort located near the waterfall.",
+  "guestCount": 50,
+  "bedroomCount": 25,
+  "bathroomCount": 20,
+  "amenities": [
+    "Pool",
+    "Spa",
+    "Free WiFi"
+  ],
+  "host": "John Doe",
+  "address": "123 Waterfall Road, Some City, Country",
+  "latitude": 34.0522,
+  "longitude": -118.2437,
+  "rooms": [
+    {
+      "hotelSlug": "shajek",
+      "roomSlug": "shajek-view-suite",
+      "roomTitle": "Shajek View Suite",
+      "bedroomCount": 4
+    }
+  ],
+  "images": [
+    "http://localhost:3002/uploads/1731393314509-home1.jpg",
+    "http://localhost:3002/uploads/1731393314509-home2.jpg"
+  ]
+}

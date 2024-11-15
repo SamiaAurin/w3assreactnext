@@ -1,0 +1,46 @@
+{
+  "id": "1731396899905",
+  "slug": "grand-beach-resort",
+  "title": "Grand Beach Resort",
+  "description": "A luxurious resort located near the beach with modern amenities and stunning views.",
+  "guestCount": 200,
+  "bedroomCount": 100,
+  "bathroomCount": 100,
+  "amenities": [
+    "Free Wi-Fi",
+    "Swimming Pool",
+    "Spa",
+    "Gym",
+    "Beach Access"
+  ],
+  "host": "Samia Aurin",
+  "address": "123 Beach Road, Ocean City",
+  "latitude": 34.0522,
+  "longitude": -118.2437,
+  "rooms": [
+    {
+      "hotelSlug": "grand-beach-resort",
+      "roomSlug": "ocean-view-suite",
+      "roomTitle": "Ocean View Suite",
+      "bedroomCount": 2,
+      "roomImage": [
+        "http://localhost:3002/uploads/rooms/1731396899905-room11.jpeg",
+        "http://localhost:3002/uploads/rooms/1731396899905-room12.jpeg"
+      ]
+    },
+    {
+      "hotelSlug": "grand-beach-resort",
+      "roomSlug": "poolside-cottage",
+      "roomTitle": "Poolside Cottage",
+      "bedroomCount": 1,
+      "roomImage": [
+        "http://localhost:3002/uploads/rooms/1731396899905-room21.jpeg",
+        "http://localhost:3002/uploads/rooms/1731396899905-room22.jpeg"
+      ]
+    }
+  ],
+  "images": [
+    "http://localhost:3002/uploads/1731396899905-home1.jpg",
+    "http://localhost:3002/uploads/1731396899905-home2.jpg"
+  ]
+}
