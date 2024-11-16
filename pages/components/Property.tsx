@@ -30,6 +30,7 @@ export const PropertyInfo = ({ description, guestCount, bedroomCount, bathroomCo
 
 
 export const Amenities = ({ amenities }: { amenities: string[] }) => (
+  
     <div className="mt-4">
       <h3 className="text-xl font-semibold text-gray-700">Amenities</h3>
       <ul className="list-disc pl-5 mt-2">

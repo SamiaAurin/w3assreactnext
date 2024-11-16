@@ -1,4 +1,7 @@
 const Gallery = ({ images }: { images: string[] }) => {
+  if (!images || images.length === 0) {
+    return <p>No images available.</p>;
+  }
     return (
       <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 m-8">
         {images.map((image, index) => (

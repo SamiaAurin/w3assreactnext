@@ -1,0 +1,28 @@
+{
+  "id": "1731768006267",
+  "slug": "hotel-example",
+  "images": [
+    "http://localhost:3002/uploads/radisson.jpeg"
+  ],
+  "title": "Hotel Example",
+  "description": "A beautiful place to stay.",
+  "guestCount": "10",
+  "bedroomCount": "19",
+  "bathroomCount": "55",
+  "amenities": [
+    "Free Wi-Fi",
+    "Spa"
+  ],
+  "host": "Host",
+  "address": "Mirpur",
+  "latitude": "34.0522",
+  "longitude": "-118.2437",
+  "rooms": [
+    {
+      "hotelSlug": "hotel-example",
+      "roomSlug": "garden-view-suite",
+      "roomTitle": "Garden View Suite",
+      "bedroomCount": "2"
+    }
+  ]
+}

@@ -5,7 +5,7 @@ import cors from 'cors';
 
 const app = express();
 
-app.use(cors({ origin: 'http://localhost:3004' }));  // Allow requests from the frontend
+app.use(cors({ origin: 'http://localhost:3000' }));  // Allow requests from the frontend
 app.use(express.json()); // Middleware to parse JSON bodies
 
 // Use hotel routes
